@@ -1,3 +1,5 @@
+# installation
+	extract nyo lng sa mismong htdocs yung naka compress file na census.rar
 # default login
 	(SUPER ADMIN)
 		Username : admin123
